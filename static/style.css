@@ -1,0 +1,18 @@
+body {
+    background-image: url('./assets/bg.jpg');
+    font-family: 'Pangolin', cursive;
+    font-size: large;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+.display_inline {
+    display: inline;
+    padding: 0.5em;
+}
+div {   
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    margin-top: 5px;
+}
